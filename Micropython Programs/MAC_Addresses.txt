@@ -1,0 +1,2 @@
+Device1: a0:20:a6:14:68:c6	\xa0\x20\xa6\x14\x68\xc6
+Device2: dc:4f:22:10:ce:22	\xdc\x4f\x22\x10\xce\x22
